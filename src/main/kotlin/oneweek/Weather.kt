@@ -1,4 +1,6 @@
-import Color.*
+package oneweek
+
+import oneweek.Color.*
 
 class Weather {
     fun updateWeather(degrees: Int) {
